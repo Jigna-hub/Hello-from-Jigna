@@ -56,3 +56,4 @@ public class MainActivity extends AppCompatActivity {
         android:text="@string/button1" />
 
 </RelativeLayout>
+
